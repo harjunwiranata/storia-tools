@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { formatRp } from '@/lib/parser/helper/format'
 import StandardField from './lines/StandardField.vue'
 import HighlightField from './lines/HighlightField.vue'
