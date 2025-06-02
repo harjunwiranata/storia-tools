@@ -1,0 +1,5 @@
+onlyBuiltDependencies:
+  - '@scribe.js/tesseract.js'
+  - '@tailwindcss/oxide'
+  - esbuild
+  - tesseract.js
